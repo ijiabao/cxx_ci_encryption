@@ -125,7 +125,7 @@ C++(CrytpoPP) 与 CI(CodeIgniter PHP) 实现相同加解密算法(Crypt AES-128-
 
 ### C++ 实现
 
-* 使用CryptoPP库,自行下载编译
+* 使用CryptoPP++库(5.6.5) https://github.com/weidai11/cryptopp/releases/tag/CRYPTOPP_5_6_5
 * 源文件无其它依赖，可直接编译 
 
 > // 使用方法：
